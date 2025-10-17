@@ -1,1 +1,2 @@
-rootProject.name = "KasookoSDK"
+rootProject.name = "Kasookoo_SDK_Android"
+include(":KasookooSDK")
