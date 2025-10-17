@@ -38,7 +38,7 @@ afterEvaluate {
             release(MavenPublication) {
                 groupId = 'com.github.Kasookoo' // Replace with your GitHub username
                 artifactId = 'KasookoSDK'                         // SDK name
-                version = '1.0.3'                            // Version
+                version = '1.0.4'                            // Version
 
                 // This points to your AAR file
                 artifact("$projectDir/KasookooSDK/libs/KasookoSDK.aar")
