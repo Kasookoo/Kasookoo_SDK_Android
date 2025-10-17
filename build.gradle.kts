@@ -38,7 +38,7 @@ afterEvaluate {
             release(MavenPublication) {
                 groupId = 'com.github.Kasookoo' // Replace with your GitHub username
                 artifactId = 'Kasookoo_SDK_Android'                         // SDK name
-                version = '1.0.0'                            // Version
+                version = '1.0'                            // Version
 
                 // This points to your AAR file
                 artifact("$projectDir/libs/mysdk-release.aar")
