@@ -41,7 +41,7 @@ afterEvaluate {
                 version = '1.0'                            // Version
 
                 // This points to your AAR file
-                artifact("libs/KasookoSDK.aar")
+                artifact("$projectDir/libs/KasookoSDK.aar")
             }
         }
     }
