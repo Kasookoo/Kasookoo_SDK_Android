@@ -41,7 +41,7 @@ afterEvaluate {
                 version = '1.0'                            // Version
 
                 // This points to your AAR file
-                artifact("$projectDir/libs/mysdk-release.aar")
+                artifact("$projectDir/libs/Kasookoo_SDK_Android.aar")
             }
         }
     }
